@@ -3,7 +3,7 @@
 using namespace std;
 int main()
 {
-    cout<<"Name: Md. Zubaer Ahammed\nRoll: 1201062\nBatch: 12\nCourse No: CE-218\nCourse Title: Computer Programming (Sessional)\n"<<endl;
+    cout<<"Name: Md. Salman Rahman\nRoll: 1301099\nSection: B\nGroup: B1\nCourse No: CE-218\nCourse Title: Computer Programming (Sessional)"<<endl;
 	double Ra, Rb, p, b, a, w;
 	cout<<"Please enter the value of load, p: " ;
 	cin>>p;
