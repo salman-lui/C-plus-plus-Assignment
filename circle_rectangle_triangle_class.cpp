@@ -43,7 +43,7 @@ class figure{
 };
 int main()
 {
-    cout<<"Name:  Md. Zubaer Ahammed\nRoll:  1201062\nBatch: 12\nCourse No: CE-218\nCourse Title: Computer Programming (Sessional)\n"<<endl;
+    cout<<"Name: Md. Salman Rahman\nRoll: 1301099\nSection: B\nGroup: B1\nCourse No: CE-218\nCourse Title: Computer Programming (Sessional)"<<endl;
     figure circle(14.0);
     figure rectangle(17.0, 23.0);
     figure triangle(17.0, 30.0, 26.0);
